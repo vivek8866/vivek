@@ -1,6 +1,7 @@
 <web-app>
 <welcome-file-list>
-<welcome-file>IP.jsp</welcome-file>hello
+<welcome-file>IP.jsp</welcome-file>
 </welcome-file-list>
 
 </web-app>
+
